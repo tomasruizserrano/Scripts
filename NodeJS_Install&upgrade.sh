@@ -4,7 +4,7 @@
 sudo apt update -qq && sudo apt -y upgrade 
 
 # install nodeJS and npm
-sudo apt install nodejs npm
+sudo apt install -y -qq nodejs npm
 
 # clear the npm cache
 npm cache clean -f 
