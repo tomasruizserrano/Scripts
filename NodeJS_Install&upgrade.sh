@@ -5,8 +5,6 @@
 # update repositories and upgrade to software to new versions
 sudo apt update -qq && sudo apt -y upgrade 
 
-
-
 # install nodeJS and npm
 sudo apt install -y -qq nodejs npm curl wget
 
