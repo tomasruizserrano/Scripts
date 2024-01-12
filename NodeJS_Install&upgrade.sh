@@ -20,3 +20,6 @@ sudo n stable
 
 # reload shell
 source ~/.bashrc
+
+# view new version
+node -v
