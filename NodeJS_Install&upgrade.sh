@@ -17,3 +17,6 @@ sudo n stable
 
 # Install the latest release
 # sudo n latest
+
+# reload shell
+source ~/.bashrc
